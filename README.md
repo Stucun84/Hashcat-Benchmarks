@@ -1,5 +1,4 @@
 # Hashcat-Benchmarks
-Hashcat Benchmarks
 
 Hashcat 5.0.0 Benchmarked
 
